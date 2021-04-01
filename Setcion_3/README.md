@@ -1,2 +1,2 @@
 # GO TO BELOW
-https://github.com/JoonghoonChoi/shorcut-news-app
+https://github.com/JoonghoonChoi/shortcut-news-app
